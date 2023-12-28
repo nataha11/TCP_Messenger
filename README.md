@@ -25,6 +25,7 @@ Open another terminal(s) by Ctrl+Shift+T and run<br/>
 ```
 python3 client.py
 ```
+Then write your ip address and press Enter.<br/>
 Write 'hello' and start messaging with yourself.<br/>
 
 Thanks for using TCP_Messenger!
